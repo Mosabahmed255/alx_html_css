@@ -13,10 +13,10 @@ main {
 /* Define Flex Properties for Article and Aside */
 article {
     flex: 2;
-    overflow-y: auto;
+    overflow-y: auto; /* Enable scrolling */
 }
 
 aside {
     flex: 1;
-    overflow-y: auto;
+    overflow-y: auto; /* Enable scrolling */
 }
